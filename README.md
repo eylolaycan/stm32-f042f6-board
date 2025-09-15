@@ -11,8 +11,10 @@ Hardware-only STM32F042F6 development board designed in KiCad 9.
 - **6 layers** with dual solid **GND** planes
 
 ## Gallery
-![Top 3D](/img/Board_3d_Top.png) • ![Bottom 3D](/img/Board_3d_Bottom.png)  
-![Other PCB](/img/3d_right.png) • ![Others PCB](/img/3d_left.png)  
+![Top 3D](/img/Board_3d_Top.png) 
+![Bottom 3D](/img/Board_3d_Bottom.png)  
+![Other PCB](/img/3d_right.png) 
+![Others PCB](/img/3d_left.png)  
 ![Schematic](/img/Schematic.png)
 
 ## License
