@@ -1,8 +1,6 @@
 # stm32-f042f6-board
 Hardware-only STM32F042F6 development board designed in KiCad 9.
 
-![Hero](docs/img/3d_hero.png)
-
 ## Features
 - USB **Full-Speed** over USB-C
 - Single-cell **Li-ion charging** (BQ24090) → **3V3 LDO**
