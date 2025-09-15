@@ -13,7 +13,7 @@ Hardware-only STM32F042F6 development board designed in KiCad 9.
 ## Gallery
 ![Top 3D](docs/img/3d_top.png) • ![Bottom 3D](docs/img/3d_bottom.png)  
 ![Top PCB](docs/img/pcb_top.png) • ![Bottom PCB](docs/img/pcb_bottom.png)  
-![Schematic](docs/img/sch_overview.png)
+![Schematic](/img/Schematic.png)
 
 ## License
 MIT
