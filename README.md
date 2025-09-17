@@ -1,6 +1,12 @@
 # stm32-f042f6-board
 Hardware-only STM32F042F6 development board designed in KiCad 9.
 
+## Prevision History
+Prevision 1: Board created.
+
+## Notes
+Missing connections.
+
 ## Gallery
 ![Top 3D](/img/Board_3d_Top.png) 
 ![Bottom 3D](/img/Board_3d_Bottom.png)  
