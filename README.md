@@ -17,4 +17,4 @@ Missing connections.
 ![Schematic](/img/Schematic.png)
 
 ## License
-MIT
+CC0 1.0 Universal
